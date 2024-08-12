@@ -1,0 +1,7 @@
+[Fluid Sim]
+entry_point = "./main.cpp"
+output = "./run"
+arguments = "-lglfw3 -lGL"
+
+[SOLUTION]
+executable = "./run"
